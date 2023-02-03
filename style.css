@@ -1,0 +1,46 @@
+body {
+    background-image: url("img/background-01.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  .navbar {
+    background-color: #fff;
+    padding: 1rem;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  .login-section {
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .login-form {
+    border-radius: 15px;
+    background-color: #42606B;
+    color: #fff;
+    opacity: 80%;
+    width: 50%;
+    padding: 2rem;
+  }
+  .form-group {
+    border-radius: 50px;
+  }
+
+  footer {
+    background-color: #000;
+    opacity: 80%;
+    color: #fff;
+    padding: 1rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
